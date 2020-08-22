@@ -1,0 +1,4 @@
+Django==1.11.12
+djangorestframework==3.11.1
+django-redis-cache-2.1.1
+psycopg2==2.8.5
